@@ -59,15 +59,17 @@ public class CardTrick {
         System.out.println();
         System.out.println("My name is Nancy, but you can call me dear, Nancy, or sir");
         System.out.println();
-        System.out.println("My career ambitions: Software Developer");
-        System.out.println("-- Be more active on LinkedIn");
+        System.out.println("My career ambitions: Java Developer");
+        System.out.println("-- Be more active on LinkedIn instead of social media");
         System.out.println("-- Have a semester with no violations of academic integrity!");
         System.out.println();
         System.out.println("My hobbies:");
         System.out.println("-- Investing");
         System.out.println("-- Cooking");
-        System.out.println("-- Reading/Watching TV");
-        System.out.println("-- Riding my motorcycle");
+        System.out.println("-- Watching TV");
+        System.out.println("-- playing");
+        System.out.println("-- studying");
+
         System.out.println();
     }
 }
