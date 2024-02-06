@@ -1,7 +1,7 @@
 package exercise1;
 
-
 /**
+ * 1st in class 
  * A class that models playing card Objects. Cards have 
  * a value (note that Ace = 1, Jack = 11, Queen = 12, King = 13)
  * A suit (clubs, hearts, spades, diamonds).
@@ -12,6 +12,9 @@ package exercise1;
  * @author Paul Bonenfant May 2020
  */
 public class Card {
+
+    public Card(int value1, String suit1) {
+    }
 
    private String suit; //clubs, spades, diamonds, hearts
    private int value;//1-13
